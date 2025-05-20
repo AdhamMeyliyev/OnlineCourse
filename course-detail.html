@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Kurs Tafsilotlari</title>
+  <link
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+    rel="stylesheet"
+  />
+</head>
+<body>
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-success">
+  <div class="container">
+    <!-- Logo -->
+    <a class="navbar-brand d-flex align-items-center" href="index.html">
+      
+      <span><b>Kurslar Akademiyasi</b></span>
+    </a>
+
+    <!-- Burger menu kichik ekranlar uchun -->
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-bs-toggle="collapse"
+      data-bs-target="#navbarNav"
+      aria-controls="navbarNav"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <!-- Navbar linklar -->
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="index.html"><b>Bosh sahifa</b></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="courses.html"><b>Kurslar</b></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="about.html"><b>Biz haqimizda</b></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="contact.html"><b>Kontakt</b></a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+  <div class="container py-5">
+    <h1 id="course-title" class="mb-4"></h1>
+    <img id="course-img" src="" alt="" class="img-fluid rounded mb-3" />
+    <p id="course-desc" class="mb-4 fs-5"></p>
+
+    <div class="ratio ratio-16x9">
+      <iframe
+        id="course-video"
+        src=""
+        title="Kurs video"
+        allowfullscreen
+        frameborder="0"
+      ></iframe>
+    </div>
+
+		<a id="courses-link" class="btn btn-primary  mt-3" >YouTube to'liq darslar</a>
+
+    <div class="mt-4 d-flex">
+      <a href="courses.html" class="btn btn-outline-success">Barcha kurslarga qaytish</a>
+      <a href="index.html" class="btn btn-outline-secondary ms-2">Bosh sahifaga qaytish</a>
+    </div>
+  </div>
+
+  <footer class="bg-light py-3 text-center mt-5">
+    &copy; 2025 Kurslar Akademiyasi
+  </footer>
+
+  <script src="js/main.js"></script>
+  <script
+    src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+  ></script>
+</body>
+</html>

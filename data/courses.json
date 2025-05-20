@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Excel 2023",
+    "description": "Excelda formulalar, diagrammalar va avtomatlashtirish o‘rganiladi.",
+    "image": "/img/excel.webp",
+    "video": "https://youtu.be/ujj_zLZfvYo?list=PLRFAVPm13yRXSRQXeAG4jObsy5VerlYOZ",
+		"link": "https://youtu.be/ujj_zLZfvYo?list=PLRFAVPm13yRXSRQXeAG4jObsy5VerlYOZ"
+  },
+  {
+    "id": 2,
+    "title": "PowerPoint Dizayn",
+    "description": "Taqdimot yaratish, animatsiyalar va chiroyli dizaynlar qilishni o‘rganasiz.",
+    "image": "/img/ppt.avif",
+    "video": "https://youtu.be/Qw7dUsILECI?list=PLT-SZkOk7WrwlgBmZ93WxuJtaQRVQjv0N",
+		"link" : "https://youtu.be/Qw7dUsILECI?list=PLT-SZkOk7WrwlgBmZ93WxuJtaQRVQjv0N"
+  },
+  {
+    "id": 3,
+    "title": "Word Boshlang‘ich",
+    "description": "Matnni formatlash, jadval va fayllarni boshqarish.",
+    "image": "img/word.jpg",
+    "video": "https://youtu.be/GOU2_-8o1rI?list=PLH6-nISdWJQJin_c1NXIehorC2z6d3QPz",
+		"link" : "https://youtu.be/GOU2_-8o1rI?list=PLH6-nISdWJQJin_c1NXIehorC2z6d3QPz"
+  },
+  {
+    "id": 4,
+    "title": "Power BI Asoslari",
+    "description": "Ma'lumotlarni vizualizatsiya qilish va hisobotlar yaratish. (Rus tilida)",
+    "image": "/img/power.webp",
+    "video": "https://youtu.be/psffGqB7TKY?list=PLzilK6a-UuVm65tR5byrLJPB18BrTMlAO",
+		"link" : "https://youtu.be/psffGqB7TKY?list=PLzilK6a-UuVm65tR5byrLJPB18BrTMlAO"
+  }
+]
